@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BimoAtaullahR
-- 👀 I’m interested in Competitive Programming and C++
-- 🌱 I’m currently learning DSA for CP
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning Nextjs for WebDev
 
 
 <!---
