@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BimoAtaullahR
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Nextjs for WebDev
+- 🌱 I’m currently learning Golang dan Gin as my tech stack for backend
 
 
 <!---
